@@ -1427,7 +1427,7 @@ strong,
         border: 4px solid #4394e5;
         height: 16px;
         width: 16px;
-        margin-left: 10px; /*EDITAR diseño de titulos */
+        margin-left: 20px; /*EDITAR diseño de titulos */
         border-radius: 16px;
         z-index: 1;
         box-sizing: border-box; }
@@ -1459,7 +1459,7 @@ strong,
       .section .content .c-features li .title:before {
         content: "";
         position: absolute;
-        left: -32px; /*EDITAR diseño de titulos */
+        left: -12px; /*EDITAR diseño de titulos */
         bottom: 0;
         top: auto;
         background: #4394e5;
@@ -1473,7 +1473,7 @@ strong,
       .section .content .c-features li .title:after {
         content: "";
         position: absolute;
-        left: -32px;
+        left: -10px;
         bottom: -6px;
         top: auto;
         background: #ffffff;
@@ -2873,15 +2873,15 @@ strong,
         bottom: 0px; }
       .section-contact .contact-footer .social-cont .socials li:first-child:after {
         display: none; }
-      .section-contact .contact-footer .social-cont .socials li a {
+      .section-contact .contact-footer .social-cont .socials li a {  /*EDITAR TAMAÑOS */
         display: inline-block;
-        width: 32px;
-        height: 32px;
+        width: 62px; 
+        height: 62px;
         text-align: center;
         border-radius: 2px;
         background: #ffffff;
         color: #4394e5;
-        font-size: 20px; }
+        font-size: 50px; }
         .section-contact .contact-footer .social-cont .socials li a:hover {
           color: #ffffff;
           background: #4394e5; }
@@ -3437,15 +3437,16 @@ strong,
         position: relative; }
         .site-footer .contact .socials li a {
           display: inline-block;
-          width: 24px;
-          height: 24px;
+          width: 34px;
+          height: 34px;
           text-align: center;
+          font-size: 30px;
           border-radius: 2px;
           background: #ffffff;
           color: #4394e5;
           line-height: 1;
           padding-top: 0.2em; }
-          .site-footer .contact .socials li a:hover {
+          .site-footer .contact .socials li a:hover {            
             color: #ffffff;
             background: #4394e5; }
 
