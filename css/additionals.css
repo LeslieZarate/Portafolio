@@ -1,4 +1,5 @@
 /* aditional class personal */
+
 .m-top{
     margin-top: 2rem;
   }
@@ -28,7 +29,7 @@
   }
 
   @media (min-width: 602px) {
-      .dn{
+          .dn{
           display: none ;
       }
       .align-items{
