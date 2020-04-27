@@ -900,10 +900,10 @@ img {
   color: #262626;
   padding-right: 12px;
 }
-.about-img-01 {
+.about-img {
   overflow: hidden;
 }
-.about-img-01 img {
+.about-img img {
   width: 100%;
 }
 .about-box-01 {
@@ -938,6 +938,7 @@ img {
   border: 1px solid #e5e8ed;
   height: 100%;
   text-align: center;
+  border-radius: 15px;
 }
 
 .feature-box-01 .icon{
@@ -1220,6 +1221,7 @@ img {
 -----------------------------------*/
 .blog-item{
   border:1px solid #999;
+  border-radius: 15px;
   padding: 2rem 1rem;
   height: 100%;
 }
